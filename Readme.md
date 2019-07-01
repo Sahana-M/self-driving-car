@@ -1,4 +1,16 @@
 This project of Self driving car has been broken down into sections where in each section I have got to learn many things.
+## *In glimpse -*
+- Used **Computer Vision techniques via OpenCV** to identify lane lines for a self-driving car.
+
+- Learned to train a **Perceptron-based Neural Network to classify between binary classes.**
+
+- Learned to train **Convolutional Neural Networks to identify between various traffic signs.**
+
+- Trained **Deep Neural Networks to fit complex datasets.**
+
+- **Mastered Keras,** a power Neural Network library written in Python.
+
+## Builded and trained a fully functional self driving car to drive on its own!
 
 Started with these topics ,
 ___
@@ -34,7 +46,7 @@ ___
 ## *DNN MNIST Image Recognition -*
 - Used Deep Neural networks on MNIST data set to recognise Handwritten digits using Keras
 - Used relu and softmax activation functions
-- Model obtained an accuracy of ~93%
+- Model obtained an accuracy of ~93
 - link - https://github.com/Sahana-M/Keras-implementations-DNN-CNN/blob/master/MNIST%20Deep%20learning.ipynb
 ___
 ## *CNN MNIST Image Recognition -*
